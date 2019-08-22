@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Tailspin1701/Space%20Game%20-%20web/_apis/build/status/gerardtoconnor.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin1701/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
